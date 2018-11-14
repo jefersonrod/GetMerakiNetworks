@@ -1,0 +1,5 @@
+C:\Users\jefersonr\OneDrive - Grupo Boticario\Util\src\cs\GetMerakiNetworks\GetMerakiNetworks\bin\Debug\GetMerakiNetworks.exe
+C:\Users\jefersonr\OneDrive - Grupo Boticario\Util\src\cs\GetMerakiNetworks\GetMerakiNetworks\bin\Debug\GetMerakiNetworks.pdb
+C:\Users\jefersonr\OneDrive - Grupo Boticario\Util\src\cs\GetMerakiNetworks\GetMerakiNetworks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jefersonr\OneDrive - Grupo Boticario\Util\src\cs\GetMerakiNetworks\GetMerakiNetworks\obj\x86\Debug\GetMerakiNetworks.exe
+C:\Users\jefersonr\OneDrive - Grupo Boticario\Util\src\cs\GetMerakiNetworks\GetMerakiNetworks\obj\x86\Debug\GetMerakiNetworks.pdb
